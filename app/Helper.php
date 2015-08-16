@@ -1,4 +1,4 @@
-<?php namespace MyPlugin;
+<?php namespace Qb2Wp;
 
 class Helper {
 
